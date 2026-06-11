@@ -1,0 +1,15 @@
+ orvique-studios
+│
+├── index.html
+├── css
+│   └── style.css
+│
+├── js
+│   └── script.js
+│
+├── assets
+│   ├── images
+│   ├── videos
+│   └── icons
+│
+└── README.md
